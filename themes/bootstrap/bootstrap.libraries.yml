@@ -156,3 +156,8 @@ drupal.vertical-tabs:
     - core/jquery.once
     - core/drupal.form
     - core/matchmedia
+
+custom_style:
+  css:
+    theme:
+      css/custom/style.css: {}
